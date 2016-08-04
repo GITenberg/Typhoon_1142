@@ -1,0 +1,43 @@
+_repo: Typhoon_1142
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "Typhoon is a novella by Joseph Conrad, begun in 1899 and serialized\
+  \ in Pall Mall Magazine in January–March 1902. Its first book publication was in\
+  \ New York by Putnam in 1902; it was also published in Britain in Typhoon and Other\
+  \ Stories by Heinemann in 1903.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1142'
+  wikidata: Q1329329
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Sea stories'
+- !lcsh 'Ship captains -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Typhoons -- Fiction'
+- GITenberg
+title: Typhoon
+url: http://www.gutenberg.org/ebooks/1142
+wikipedia:
+- https://fr.wikipedia.org/wiki/Typhon_(Conrad)
+- https://cs.wikipedia.org/wiki/Tajfun_a_jin%C3%A9_pov%C3%ADdky
+- https://de.wikipedia.org/wiki/Taifun_(Joseph_Conrad)
+- https://en.wikipedia.org/wiki/Typhoon_(novella)
+- https://it.wikipedia.org/wiki/Tifone_(Conrad)
+- https://ca.wikipedia.org/wiki/Tif%C3%B3_(novel%C2%B7la)
