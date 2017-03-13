@@ -1,5 +1,8 @@
 _repo: Typhoon_1142
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -16,6 +19,8 @@ description: "Typhoon is a novella by Joseph Conrad, begun in 1899 and serialize
   \ in Pall Mall Magazine in January–March 1902. Its first book publication was in\
   \ New York by Putnam in 1902; it was also published in Britain in Typhoon and Other\
   \ Stories by Heinemann in 1903.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1142#Typhoon
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
